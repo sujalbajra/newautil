@@ -1,3 +1,9 @@
 data/
 .idea/
 models/
+__pycache__/
+newautils/__pycache__/
+muril-pretrained-contrastive-newari/
+newautils/.ipynb_checkpoints/
+muril-contrastive-newari/
+.ipynb_checkpoints/
